@@ -11,9 +11,11 @@
             <h1>Curso PHP</h1>
             <h2>Visualização dos Exercícios</h2>
         </header>
-        <nav class="navegacao">
-            <a href=<?= $_GET['dir'] . "\\" . $_GET['file'] . ".php"?> class="verde">Sem formataçao</a>
-            <a href="index.php" class="vermelho">Voltar</a>
+        <nav>
+            <li class="navegacao">
+                <a href=<?= $_GET['dir'] . "\\" . $_GET['file'] . ".php"?> class="">Sem formataçao</a>
+                <a href="index.php" class="">Voltar</a>
+            </li>
         </nav>
         <main class="principal">
             <div class="conteudo">

@@ -34,6 +34,20 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="modulo vermelho">
+                        <h3>Modulo 02</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=tipos&file=int">Tipo Interio</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=tipos&file=float">Tipo Float</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=tipos&file=aritimeticas">Operações Aritimeticas</a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
 
